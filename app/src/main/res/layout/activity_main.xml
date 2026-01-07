@@ -9,9 +9,9 @@
 
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/button
+        android:layout_width="268dp"
+        android:layout_height="78dp"
         android:backgroundTint="#9014DBB3"
         android:text="ZMianaTekstu123"
         android:textColorLink="#E91E1E"
