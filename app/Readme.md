@@ -1,1 +1,4 @@
 https://www.praktycznyegzamin.pl/inf04/praktyka/inf_04_01_22_01/
+
+https://www.praktycznyegzamin.pl/inf04/praktyka/inf_04_01_22_06/
+
